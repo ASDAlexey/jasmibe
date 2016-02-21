@@ -75,3 +75,5 @@ tsconfig.json
 *.exe
 *.o
 *.so
+/.idea
+/.idea/workspace.xml
